@@ -37,6 +37,7 @@ crearArchivoTabla (argv.b, argv.h, argv.l)
 //git init
 //git add .
 //git commit -m "primer commit" para salvar
+//git push 
 //git checkout -- . para reconstruir
 
 
